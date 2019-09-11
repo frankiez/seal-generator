@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/frankiez/seal-generator.git"
   },
-  "keywords": [],
+  "keywords": ["seal", "canvas"],
   "author": "frankiez",
   "license": "ISC",
   "bugs": {
