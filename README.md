@@ -1,5 +1,5 @@
 # seal-generator
-前端印章样式生成
+印章样式生成库
 
 ## 安装
 `npm i S seal-generator`
