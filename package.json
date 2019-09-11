@@ -1,0 +1,23 @@
+{
+  "name": "seal-generator",
+  "version": "1.0.1",
+  "description": "前端印章样式生成",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankiez/seal-generator.git"
+  },
+  "keywords": [],
+  "author": "frankiez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankiez/seal-generator/issues"
+  },
+  "homepage": "https://github.com/frankiez/seal-generator#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
